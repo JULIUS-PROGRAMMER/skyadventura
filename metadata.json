@@ -1,0 +1,6 @@
+{
+  "name": "SKYADVENTURAmed",
+  "description": "ZAMRA-licensed B2B wholesale medicine and pharmaceutical distribution in Zambia supplying retail pharmacies across all 10 provinces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
